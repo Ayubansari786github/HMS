@@ -86,7 +86,7 @@ HospitalManagementSystem/
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Ayubansari786github/HospitalManagementSystem.git
+git clone https://github.com/Ayubansari786github/HMS.git
 ```
 
 ---
